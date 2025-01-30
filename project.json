@@ -25,5 +25,6 @@
         "org.gluu.agama.sms.otp": {},
         "org.gluu.agama.register": {}
     },
-    "name": "agama-sms"
+    "name": "agama-sms",
+    "defaultPackage": "lib"
 }
