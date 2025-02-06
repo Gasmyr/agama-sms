@@ -24,7 +24,8 @@
         },
         "org.gluu.agama.sms.otp": {},
         "org.gluu.agama.register": {},
-        "com.coudia.flow.registration": {}
+        "com.coudia.flow.registration": {},
+        "com.sample.running": {}
     },
     "name": "agama-sms",
     "defaultPackage": "lib"
