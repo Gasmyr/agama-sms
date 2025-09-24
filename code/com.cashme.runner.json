@@ -1,0 +1,36 @@
+{
+  "nodes": [
+    {
+      "id": "startNode-ef1a57a9-440f-4b9e-8890-8027e2dfc275",
+      "type": "startNode",
+      "sourcePosition": "right",
+      "position": {
+        "x": 30,
+        "y": 30
+      },
+      "deletable": false,
+      "data": {
+        "id": "startNode-ef1a57a9-440f-4b9e-8890-8027e2dfc275",
+        "type": "startNode",
+        "position": {
+          "x": 30,
+          "y": 40
+        },
+        "agamaData": {
+          "isTopLevelFlow": true,
+          "basepath": "",
+          "configParams": "{}",
+          "nodeIcon": "material-symbols:line-start-square",
+          "timeout": "",
+          "inputs": "",
+          "configs": "",
+          "flowname": "com.cashme.runner",
+          "displayName": "Running",
+          "creationDate": "24/09/2025",
+          "hasComment": true,
+          "comment": ""
+        }
+      }
+    }
+  ]
+}
