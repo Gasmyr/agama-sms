@@ -24,7 +24,6 @@
         },
         "org.gluu.agama.sms.otp": {},
         "org.gluu.agama.register": {},
-        "com.cashme.runner": {},
         "com.cashme.runner.flow_renamed": {}
     },
     "name": "agama-sms"
