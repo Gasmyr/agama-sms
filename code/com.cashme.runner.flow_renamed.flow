@@ -1,0 +1,4 @@
+Flow com.cashme.runner
+     Basepath ""
+// doing something
+Log "@info Runing faster"
