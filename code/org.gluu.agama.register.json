@@ -192,7 +192,7 @@
 				"width": 170,
 				"height": 124
 			},
-			"selected": true
+			"selected": false
 		},
 		{
 			"data": {
@@ -321,6 +321,40 @@
 				"width": 170,
 				"height": 124
 			}
+		},
+		{
+			"id": "logNode-451ac3d7-4bda-4524-8885-50d5b7de32af",
+			"type": "logNode",
+			"position": {
+				"x": 1550,
+				"y": 200
+			},
+			"data": {
+				"id": "logNode-451ac3d7-4bda-4524-8885-50d5b7de32af",
+				"type": "logNode",
+				"position": {
+					"x": 1550,
+					"y": 200
+				},
+				"previousNodeId": "assignmentNode-eff07685-7a57-4c13-b828-8a24f6be0cba",
+				"agamaData": {
+					"logMessage": "\"Runing faster\"",
+					"logLevel": "info",
+					"nodeIcon": "octicon:log-16",
+					"nodeColor": "",
+					"titleColor": "",
+					"descColor": "",
+					"displayName": "Home Telephone Number",
+					"hasComment": true,
+					"comment": ""
+				}
+			},
+			"measured": {
+				"width": 170,
+				"height": 124
+			},
+			"selected": true,
+			"dragging": false
 		}
 	],
 	"edges": [
@@ -494,6 +528,25 @@
 			},
 			"labelShowBg": true,
 			"sourceHandle": "source_callNode-7bc57c5d-732b-4283-a004-ba73e2b089b5"
+		},
+		{
+			"id": "assignmentNode-eff07685-7a57-4c13-b828-8a24f6be0cba-logNode-451ac3d7-4bda-4524-8885-50d5b7de32af",
+			"type": "default",
+			"source": "assignmentNode-eff07685-7a57-4c13-b828-8a24f6be0cba",
+			"target": "logNode-451ac3d7-4bda-4524-8885-50d5b7de32af",
+			"labelBgPadding": [
+				8,
+				4
+			],
+			"labelBgBorderRadius": 4,
+			"label": "",
+			"labelBgStyle": {
+				"fill": "#009688",
+				"color": "#ffffff",
+				"fillOpacity": 0.7
+			},
+			"labelShowBg": true,
+			"sourceHandle": "source_assignmentNode-eff07685-7a57-4c13-b828-8a24f6be0cba"
 		}
 	],
 	"viewport": {
