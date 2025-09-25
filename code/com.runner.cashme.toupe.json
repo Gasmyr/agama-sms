@@ -1,0 +1,36 @@
+{
+  "nodes": [
+    {
+      "id": "startNode-d66add1e-d856-49a4-a3e9-08605347f604",
+      "type": "startNode",
+      "sourcePosition": "right",
+      "position": {
+        "x": 30,
+        "y": 30
+      },
+      "deletable": false,
+      "data": {
+        "id": "startNode-d66add1e-d856-49a4-a3e9-08605347f604",
+        "type": "startNode",
+        "position": {
+          "x": 30,
+          "y": 40
+        },
+        "agamaData": {
+          "isTopLevelFlow": true,
+          "basepath": "",
+          "configParams": "{}",
+          "nodeIcon": "material-symbols:line-start-square",
+          "timeout": "",
+          "inputs": "",
+          "configs": "",
+          "flowname": "com.runner.cashme.toupe",
+          "displayName": "Toupe",
+          "creationDate": "25/09/2025",
+          "hasComment": true,
+          "comment": ""
+        }
+      }
+    }
+  ]
+}
