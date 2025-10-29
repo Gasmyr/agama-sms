@@ -28,8 +28,7 @@
         "com.runner.cashme.toupe": {},
         "code": {},
         "com.runner.cashme.toupe_renamed": {},
-        "org.gluu.agama.sms.otpcopied": {},
-        "cm.sample.running": {}
+        "org.gluu.agama.sms.otpcopied": {}
     },
     "name": "agama-sms"
 }
