@@ -1,2 +1,4 @@
 Flow com.it.runner
      Basepath ""
+Log "@warn Runing faster"
+Log "@info Runing faster"
