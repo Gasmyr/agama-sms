@@ -1,2 +1,3 @@
 Flow cm.sample.running
      Basepath ""
+Log "@warn Runing faster"
