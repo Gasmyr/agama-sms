@@ -18,7 +18,7 @@
 				},
 				"agamaData": {
 					"isTopLevelFlow": true,
-					"basepath": "",
+					"basepath": "baseDir",
 					"configParams": {
 						"keyone": "one"
 					},
