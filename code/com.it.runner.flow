@@ -1,4 +1,0 @@
-Flow com.it.runner
-     Basepath "baseDir"
-Log "@warn Runing faster"
-Log "@info Runing faster"
